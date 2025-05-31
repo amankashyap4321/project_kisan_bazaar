@@ -10,7 +10,7 @@ With our app, you can easily browse and order fresh, locally sourced produce, wh
 
 ## Description
 
-Krishi Bazaar is mobile application designed to bridge the gap between farmers and consumers by providing a platform for direct communication and transaction. The app allows farmers to list their produce for sale and consumers to browse and purchase products directly from the farmer.
+Kisan Bazaar is mobile application designed to bridge the gap between farmers and consumers by providing a platform for direct communication and transaction. The app allows farmers to list their produce for sale and consumers to browse and purchase products directly from the farmer.
 
 Farmers can create a profile, add their produce with details such as quantity, quality, and price. Consumers can search for products by category, location, and other filters. They can also view the farmer's profile, read reviews, and connect with them to discuss product details or negotiate prices.
 
