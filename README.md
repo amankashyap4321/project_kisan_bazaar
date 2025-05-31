@@ -1,4 +1,4 @@
-# Krishi Bazaar
+# Kisan Bazaar
 
 ## Brief
 
